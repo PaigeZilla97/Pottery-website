@@ -173,11 +173,17 @@ body {
   font-size: 1rem;
 }
 
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 0.75rem;
+}
+
 .social-link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 0.75rem;
   color: var(--muted);
   text-decoration: none;
   font-size: 0.9rem;
