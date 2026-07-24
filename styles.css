@@ -20,7 +20,13 @@ body {
 
 .site-header {
   text-align: center;
-  padding: 3rem 1.5rem 2rem;
+  padding: 1.25rem 1.5rem 2rem;
+}
+
+.site-logo {
+  width: 60px;
+  height: auto;
+  margin-bottom: 0.5rem;
 }
 
 .site-header h1 {
